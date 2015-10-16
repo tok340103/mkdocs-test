@@ -1,0 +1,49 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\ncustom_theme/\n    base.html\n    ... # Other markdown pages, images and other files.\n\n\n\nPlease see the \nproject license\n for further details.\n\n\nCupcake indexer is a snazzy new project for indexing small cakes.\n\n\n\n\nAbove: Cupcake indexer in progress", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\ncustom_theme/\n    base.html\n    ... # Other markdown pages, images and other files.  Please see the  project license  for further details.  Cupcake indexer is a snazzy new project for indexing small cakes.   Above: Cupcake indexer in progress", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/user-guide/writing-your-docs/", 
+            "text": "mkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.", 
+            "title": "Writing your docs"
+        }, 
+        {
+            "location": "/user-guide/styling-your-docs/", 
+            "text": "license.md", 
+            "title": "Styling your docs"
+        }, 
+        {
+            "location": "/about/contributing/", 
+            "text": "Contributing to MkDocs\nAn introduction to contributing to the MkDocs project.\n\n\nThe MkDocs project welcomes, and depends, on contributions from developers and users in the open source community. Contributions can be made in a number of ways, a few examples are:\n\n\nCode patches via pull requests\nDocumentation improvements\nBug reports and patch reviews\nReporting an Issue\n\n\nPlease include as much detail as you can. Let us know your platform and MkDocs version. If the problem is visual (for example a theme or design issue) please add a screenshot and if you get an error please include the the full error and traceback.", 
+            "title": "Contributing"
+        }, 
+        {
+            "location": "/about/license/", 
+            "text": "Commands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nPlease see the \nproject book\n for further details.\nEnablePMUC='1'\nPMUCJid=\"conference.wx2i-integ.wbx2.com\"", 
+            "title": "License"
+        }, 
+        {
+            "location": "/about/license/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.   Please see the  project book  for further details.\nEnablePMUC='1'\nPMUCJid=\"conference.wx2i-integ.wbx2.com\"", 
+            "title": "Commands"
+        }
+    ]
+}
