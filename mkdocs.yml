@@ -7,5 +7,5 @@ pages:
 - About:
     - Contributing: about/contributing.md
     - License: about/license.md
-#theme: amelia
+theme: amelia
 #license.md
